@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  margin-top: 30px;
+  text-align: center;
+}
+table {
+  width: 90%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.searching {
+  background-color: #eee;
+}
+
+.info-search-1 {
+  background-color: #7ee5da;
+  width: 37%;
+}
+.info-search-2 {
+  background-color: #70ccc2;
+}
+.info-search-3 {
+  background-color: #62b3aa;
+}
+
+footer {
+  text-align: center;
+  margin-top: 30px;
+}
